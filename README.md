@@ -10,7 +10,7 @@ Brenn</a></h1>
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/brennanieva.png">
 </a>
 
-- I use They/She pronouns and am proudly a Filipino Queer in STEM!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
+- 🏳️‍🌈I use They/She pronouns and am proudly a Filipino Queer in STEM!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
 - :apple: I’m majoring in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
 - :newspaper: After graduating,  I'll be working for Microsoft working with machine learning to decrease toxic content in News & Feeds
 
