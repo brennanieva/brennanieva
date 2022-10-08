@@ -10,12 +10,13 @@ Brenn</a></h1>
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/brennanieva.png">
 </a>
 
+- I use They/She pronouns and am proudly a Filipino Queer in STEM!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
 - :apple: I’m majoring in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
 - :newspaper: After graduating,  I'll be working for Microsoft working with machine learning to decrease toxic content in News & Feeds
 
 - :triangular_flag_on_post: I’m a  <a href="https://githubcampus.expert/brennanieva/" target="blank">GitHub Education Campus Expert, lets chat about it!</a>
 
-- :desktop_computer: I'm the President of the Association for Gender Inclusion in Computing which aims to increase representation and diversity in our CS community
+- :desktop_computer: I'm the President of the Association for Gender Inclusion in Computing
 
 - :sun_behind_rain_cloud: I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
