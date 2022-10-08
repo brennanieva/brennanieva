@@ -20,11 +20,11 @@ Brenn</a></h1>
 
 - 📝 I can be found tinkering in the WWU Makerspace and managing the <a href="https://stc.wwu.edu" target="blank">Student Technology Center</a>
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Reach out & say Hi!**
 
 - 📫 How to reach me **brennanieva.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
