@@ -22,7 +22,7 @@ Brenn</a></h1>
 
 - :printer: I can be found tinkering in the WWU Makerspace and managing the <a href="https://stc.wwu.edu" target="blank">Student Technology Center</a>
 
-- 💬 Reach out & say Hi!**
+- 💬 Reach out & say Hi!
 
 - 📫 How to reach me **brennanieva.com**
 
