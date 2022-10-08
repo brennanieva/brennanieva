@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://brennanieva.com" target="blank">
 Brenn</a></h1>
-<h3 align="center">GitHub Campus Expert</h3>
+<h3 align="center">GitHub Education Campus Expert</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=100brennanieva&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
  -->
@@ -10,15 +10,16 @@ Brenn</a></h1>
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/brennanieva.png">
 </a>
 
-- 🔭 I’m majoring in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
+- :apple: I’m majoring in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
+- :newspaper: After graduating,  I'll be working for Microsoft working with machine learning to decrease toxic content in News & Feeds
 
-- 🌱 I’m a  <a href="https://githubcampus.expert/brennanieva/" target="blank">GitHub Campus Expert</a>
+- :triangular_flag_on_post: I’m a  <a href="https://githubcampus.expert/brennanieva/" target="blank">GitHub Education Campus Expert, lets chat about it!</a>
 
-- 🤝 I'm the President of the Association for Gender Inclusion in Computing which aims to increase representation and diversity in our CS community
+- :desktop_computer: I'm the President of the Association for Gender Inclusion in Computing which aims to increase representation and diversity in our CS community
 
-- 🌱 I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
+- :sun_behind_rain_cloud: I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
-- 📝 I can be found tinkering in the WWU Makerspace and managing the <a href="https://stc.wwu.edu" target="blank">Student Technology Center</a>
+- :printer: I can be found tinkering in the WWU Makerspace and managing the <a href="https://stc.wwu.edu" target="blank">Student Technology Center</a>
 
 - 💬 Reach out & say Hi!**
 
