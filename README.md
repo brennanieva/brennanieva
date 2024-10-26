@@ -11,8 +11,9 @@ Brenn</a></h1>
 </a>
 
 - 🏳️‍🌈I use <a href="https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq" target="blank"> They/She</a> pronouns and am proudly a Filipino Queer in STEM!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
-- :apple: I’m majoring in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
-- :newspaper: After graduating,  I'll be working for Microsoft working with machine learning to decrease toxic content in News & Feeds
+- - :newspaper: I work as a SWE for Microsoft AI working with machine learning to decrease toxic content in MSN
+
+- :apple: I’m majored in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
 
 - :triangular_flag_on_post: I’m a  <a href="https://githubcampus.expert/brennanieva/" target="blank">GitHub Education Campus Expert, lets chat about it!</a>
 
