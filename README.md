@@ -10,16 +10,14 @@ Brenn</a></h1>
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/brennanieva.png">
 </a>
 
-- 🏳️‍🌈I use <a href="https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq" target="blank"> They/She</a> pronouns and am proudly a Filipino Queer in STEM!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
+- 🏳️‍🌈I use <a href="https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq" target="blank"> They/She</a> pronouns and am a proud queer and disabled developer!  I'm extremely passionate about increasing diversity and representation in our Computer Science community.
 - :newspaper: I work as a SWE for Microsoft AI working with machine learning to decrease toxic content in MSN
 
 - :apple: I’m majored in Computer Science & Political Sciences at Western Washington University in Bellingham, WA, USA</a>
 
 - :triangular_flag_on_post: I’m a  <a href="https://githubcampus.expert/brennanieva/" target="blank">GitHub Education Campus Expert, lets chat about it!</a>
 
-- :desktop_computer: I'm the President of the Association for Gender Inclusion in Computing
-
-- :sun_behind_rain_cloud: I do work with machine learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
+- :sun_behind_rain_cloud: I do work with deep learning for climate and weather prediction through <a href="https://hutchresear.ch" target="blank">HutchResearch</a>. Check out our work!
 
 - :printer: I can be found tinkering in the WWU Makerspace and managing the <a href="https://stc.wwu.edu" target="blank">Student Technology Center</a>
 
